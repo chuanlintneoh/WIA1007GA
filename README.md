@@ -2,7 +2,7 @@
 ### Obesity Risk Assessment
 #### Created with R language
 
-### Members of the team :
+#### Members of the team :
 |         **NAME**          | **MATRIC NUMBER** |
 |---------------------------|-------------------|
 | CHEE YAO SERN SHAWN       |      22004874     |
