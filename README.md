@@ -1,9 +1,6 @@
-# WIA1007 GROUP ASSIGNMENT
-# Obesity Risk Assessment
-<br>
-WIA1007 Group Assignment (Group 11)
-<br>
-Created with R language
+# WIA1007 GROUP ASSIGNMENT (GROUP 11)
+### Obesity Risk Assessment
+
 ### Members of the team :
 |         **NAME**          | **MATRIC NUMBER** |
 |---------------------------|-------------------|
@@ -12,5 +9,5 @@ Created with R language
 | VINNIE TIANG WEN YING     |      22004876     |
 | WINNIE CHENG JING WEN     |      22057027     |
 | PANG SZE WEN              |      22004873     |
-<br>
+
 - Click [here]() to access to the application.
