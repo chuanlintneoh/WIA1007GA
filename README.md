@@ -11,4 +11,4 @@
 | WINNIE CHENG JING WEN     |      22057027     |
 | PANG SZE WEN              |      22004873     |
 
-- Click [here]() to access to the application.
+- Click [here](https://jingwen48.shinyapps.io/ObesityPrediction/) to access to the application.
